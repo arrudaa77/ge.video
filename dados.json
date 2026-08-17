@@ -1,0 +1,108 @@
+{
+    "usuarios": [
+        {
+            "nome": "admin",
+            "senha": "3442",
+            "favoritos": [],
+            "playlists": {},
+            "admin": true
+        },
+        {
+            "nome": "Guilherme",
+            "senha": "123",
+            "favoritos": [],
+            "playlists": {
+                "Filmes Favoritos": [
+                    4
+                ],
+                "filmes": [
+                    3
+                ]
+            },
+            "admin": false
+        },
+        {
+            "nome": "Enzo",
+            "senha": "outoftime",
+            "favoritos": [
+                3,
+                9
+            ],
+            "playlists": {
+                "10/10": [],
+                "Star Wars": [
+                    9
+                ]
+            },
+            "admin": false
+        },
+        {
+            "nome": "Luiz",
+            "senha": "4444",
+            "favoritos": [],
+            "playlists": {},
+            "admin": false
+        },
+        {
+            "nome": "bbb",
+            "senha": "333",
+            "favoritos": [],
+            "playlists": {
+                "abc": []
+            },
+            "admin": false
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "nome": "Velozes e Furiosos",
+            "curtidas": 1
+        },
+        {
+            "id": 2,
+            "nome": "Interestelar",
+            "curtidas": 1
+        },
+        {
+            "id": 3,
+            "nome": "Top Gun",
+            "curtidas": 1
+        },
+        {
+            "id": 4,
+            "nome": "Carros",
+            "curtidas": 0
+        },
+        {
+            "id": 5,
+            "nome": "Rei Le\u00e3o",
+            "curtidas": 0
+        },
+        {
+            "id": 6,
+            "nome": "Ford vs Ferrari",
+            "curtidas": 0
+        },
+        {
+            "id": 7,
+            "nome": "Toy Story",
+            "curtidas": 0
+        },
+        {
+            "id": 8,
+            "nome": "Bird Box",
+            "curtidas": 0
+        },
+        {
+            "id": 9,
+            "nome": "Star Wars - O Imp\u00e9rio Contra-Ataca",
+            "curtidas": 0
+        },
+        {
+            "id": 10,
+            "nome": "Coringa",
+            "curtidas": 0
+        }
+    ]
+}
