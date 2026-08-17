@@ -111,6 +111,6 @@ It focuses on applying programming fundamentals to the development of a function
 
 ## 👨‍💻 Author
 
-**Enzo Arruda**
+**Made by Enzo Arruda and Guilherme Oyama Quagliato**
 
-Computer Science student at **Centro Universitário FEI**.
+Computer Science students at **Centro Universitário FEI**.
